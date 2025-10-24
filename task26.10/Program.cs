@@ -3,6 +3,20 @@ class Program
 {
     static void Main(string[] args)
     {
+
+        Product product1=new Product("notebook", 1500, 5);
+        product1.Detail();
+        Console.WriteLine(product1.Discount(50));
+        Book book = new Book("xosbextlik", 20, 10, "psixologiya");
+        book.Detail();
+
+
+
+
+
+
+
+
         Console.Write("nece kitab elave etmek isteyirsiniz");
         int n = int.Parse(Console.ReadLine());
         Book[] books = new Book[n];

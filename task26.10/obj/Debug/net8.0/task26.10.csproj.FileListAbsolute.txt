@@ -12,3 +12,4 @@ C:\Users\PC\OneDrive\Desktop\task26.10\task26.10\obj\Debug\net8.0\refint\task26.
 C:\Users\PC\OneDrive\Desktop\task26.10\task26.10\obj\Debug\net8.0\task26.10.pdb
 C:\Users\PC\OneDrive\Desktop\task26.10\task26.10\obj\Debug\net8.0\task26.10.genruntimeconfig.cache
 C:\Users\PC\OneDrive\Desktop\task26.10\task26.10\obj\Debug\net8.0\ref\task26.10.dll
+C:\Users\PC\OneDrive\Desktop\task26.10\task26.10\obj\Debug\net8.0\task26.10.sourcelink.json
